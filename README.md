@@ -1,4 +1,4 @@
-### Hi there 👋
+<!-- ### Hi there 👋
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Kali-Hac&theme=solarized-light&hide=prs,contribs&count_private=true&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
@@ -15,3 +15,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+ -->
