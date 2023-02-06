@@ -1,5 +1,5 @@
 ### Hi there 👋
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Kali-Hac&theme=solarized-light&hide=prs,contribs&count_private=true&show_icons=true)](https://github.com/Kali-Hac)
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Kali-Hac&theme=solarized-light&hide=prs,contribs,issues&count_private=true&show_icons=true)](https://github.com/Kali-Hac)
 <!--
 **Kali-Hac/Kali-Hac** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 Here are some ideas to get you started:
